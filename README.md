@@ -77,3 +77,52 @@ discord:- https://discord.gg/yzUPcxb5
 LinkedIn:- https://www.linkedin.com/in/lavish-sheth-163844215/
 
 Telegram:- https://t.me/bteckyls
+
+
+
+Certification Tracks
+
+#AssociateCloudEngineer
+#ProfessionalCloudArchitect
+#ProfessionalDataEngineer
+#ProfessionalNetworkEngineer
+#AssociateCloudDeveloper
+#ProfessionalCollaborationEngineer
+#ProfessionalMachineLearningEngineer
+Study Guides
+
+#GoogleCloudStudyGuides
+#CertificationExamObjectives
+Recommended Reading
+
+#GoogleCloudBooks
+#Whitepapers
+#Documentation
+Online Courses
+
+#GoogleCloudCourses
+#CertificationPrepCourses
+Hands-on Labs
+
+#GoogleCloudLabs
+#HandsOnExperience
+Sample Projects
+
+#GoogleCloudProjects
+#RealWorldProjects
+Practice Exams
+
+#GoogleCloudPracticeExams
+#MockExams
+Community Resources
+
+#GoogleCloudCommunity
+#CertificationDiscussion
+Tips and Tricks
+
+#CertificationTips
+#TimeManagement
+Contribution
+
+#ContributeToGoogleCloudRepo
+#CollaborateForSuccess
